@@ -7,7 +7,7 @@ name = "matplotlib-scalebar"
 dynamic = ["version"]
 description = "Artist for matplotlib to display a scale bar"
 readme = "README.md"
-license = "BSD-2-clause"
+license = {file = "LICENSE"}
 requires-python = ">=3.9"
 authors = [
     { name = "Philippe Pinard", email = "philippe.pinard@gmail.com" },
